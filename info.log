@@ -1,0 +1,6 @@
+DEBUG:root:This will be logged!
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cdn-api.co-vin.in:443
+DEBUG:urllib3.connectionpool:https://cdn-api.co-vin.in:443 "GET /api/v2/appointment/sessions/public/findByDistrict?district_id=581&date=30-05-2021 HTTP/1.1" 200 None
+INFO:root:Time taken for coWin API request : 0.16693949699401855
+INFO:root:0 centers are found
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): cdn-api.co-vin.in:443
